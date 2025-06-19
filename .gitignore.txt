@@ -1,0 +1,16 @@
+# .gitignore
+# Ignore virtual environmnet
+.venv/
+env/
+__pychache__/
+*.__pyc
+
+# VS Code settings
+.vscode/
+
+# Dataset & model files
+*.h5
+*.npy
+*.csv
+*.log
+
